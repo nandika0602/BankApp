@@ -1,0 +1,29 @@
+/* *{
+    background-color: whitesmoke;
+} */
+.login-card{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.card{
+    margin-top: 7%;
+    background-color: rgb(251, 250, 250);
+    height: 50%;
+    width: 30%;
+    text-align: center;
+    padding: 50px;
+    border: 2px solid whitesmoke;
+}
+.card h1{
+    color: rgb(27, 182, 244);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.login-btn{
+    height: 40px;
+    width: 300px;
+}
+.nav{
+    float: right;
+}
